@@ -2,7 +2,7 @@
 
 ⚡ **Fun fact**: I love dancing, I can do it for hours 🕺
 
-[![hudsonbay.github.io](https://img.shields.io/badge/-HUDSONBAY.GITHUB.IO-000000)](https://hudsonbay.github.io/) [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?logo=telegram&logoColor=white)](https://t.me/manuelmenendez) [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?logo=gmail&logoColor=white)](mailto:manuelmenendezalfonso@gmail.com) [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?logo=twitter&logoColor=white)](https://www.twitter.com/manuelm662) [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-3177C6?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-menendez-alfonso)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?logo=telegram&logoColor=white)](https://t.me/manuelmenendez) [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?logo=gmail&logoColor=white)](mailto:manuelmenendezalfonso@gmail.com) [![hudsonbay.github.io](https://img.shields.io/badge/-HUDSONBAY.GITHUB.IO-000000)](https://hudsonbay.github.io/) [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?logo=twitter&logoColor=white)](https://www.twitter.com/manuelm662) [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-3177C6?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-menendez-alfonso)
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hudsonbay" alt="hudsonbay" /></a> </p>
 
