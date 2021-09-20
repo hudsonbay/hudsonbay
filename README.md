@@ -1,6 +1,6 @@
 # Manuel Menéndez Alfonso 🇨🇺
 
-```
+```Elixir
 current_user
 |> fun_fact({:love_dancing, "I can do it for hours", "🕺"})
 |> cast_assoc([:elixir, :music, :meditation, :life])
