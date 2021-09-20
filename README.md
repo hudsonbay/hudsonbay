@@ -3,7 +3,7 @@
 ```Elixir
 current_user
 |> fun_fact({:love_dancing, "I can do it for hours", "🕺"})
-|> cast_assoc([:elixir, :music, :meditation, :life])
+|> cast_assoc([:elixir, :music, :meditation, :life, :sports])
 |> validate_required([:water, :cuban_music])
 |> learning_now([:kubernetes, :kafka, :rabbitmq])
 ```
