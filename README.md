@@ -14,6 +14,80 @@ current_user
 [![hudsonbay](https://github-profile-trophy.vercel.app/?username=hudsonbay)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 769 Contributions in the Year 2021
+ > 
+> 📦 94.3 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 7 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
+🌆 Daytime    181 commits    ███████░░░░░░░░░░░░░░░░░░   30.73% 
+🌃 Evening    243 commits    ██████████░░░░░░░░░░░░░░░   41.26% 
+🌙 Night      144 commits    ██████░░░░░░░░░░░░░░░░░░░   24.45%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       96 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
+Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
+Wednesday    77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.07% 
+Thursday     92 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
+Friday       57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+Saturday     103 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.49% 
+Sunday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.43%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Elixir** 
+
+```text
+Elixir                   17 repos            █████████████░░░░░░░░░░░░   51.52% 
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
+Sass                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/hudsonbay/hudsonbay/main/charts/bar_graph.png) 
+
+
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
 
 ## Technologies I'm working with right now
