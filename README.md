@@ -13,6 +13,9 @@ current_user
 
 [![hudsonbay](https://github-profile-trophy.vercel.app/?username=hudsonbay)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Technologies I'm working with right now
 
 ![Elixir](https://img.shields.io/badge/-Elixir-000000?style=flat&logo=Elixir&logoColor=purple) ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=red) ![Postgres](https://img.shields.io/badge/-Postgres-000000?style=flat&logo=Postgresql&logoColor=blue) ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=green) ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=elasticsearch) ![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat&logo=apache-kafka) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000000?style=flat&logo=rabbitmq) ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624) ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
