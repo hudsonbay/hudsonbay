@@ -9,90 +9,11 @@ current_user
 ```
 
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?logo=telegram&logoColor=white)](https://t.me/manuelmenendez) [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?logo=gmail&logoColor=white)](mailto:manuelmenendezalfonso@gmail.com) [![hudsonbay.github.io](https://img.shields.io/badge/-HUDSONBAY.GITHUB.IO-000000)](https://hudsonbay.github.io/) [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?logo=twitter&logoColor=white)](https://www.twitter.com/manuelm662) [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-3177C6?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-menendez-alfonso)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?logo=telegram&logoColor=white)](https://t.me/manuelmenendez) [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?logo=gmail&logoColor=white)](mailto:manuelmenendezalfonso@gmail.com) [![hudsonbay.github.io](https://img.shields.io/badge/-HUDSONBAY.GITHUB.IO-000000)](https://hudsonbay.github.io/) [![https://medium.com/@hudsonbay](https://img.shields.io/badge/-MEDIUM-000000?logo=linkedin&logoColor=white)](https://medium.com/@hudsonbay) [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?logo=twitter&logoColor=white)](https://www.twitter.com/manuelm662) [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-3177C6?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-menendez-alfonso)
 
 [![hudsonbay](https://github-profile-trophy.vercel.app/?username=hudsonbay)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 777 Contributions in the Year 2021
- > 
-> 📦 94.3 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 7 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.52% 
-🌆 Daytime    182 commits    ███████░░░░░░░░░░░░░░░░░░   30.49% 
-🌃 Evening    245 commits    ██████████░░░░░░░░░░░░░░░   41.04% 
-🌙 Night      149 commits    ██████░░░░░░░░░░░░░░░░░░░   24.96%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       96 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
-Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.23% 
-Wednesday    77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-Thursday     97 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
-Friday       60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.05% 
-Saturday     103 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.25% 
-Sunday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.24%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-Elixir                   2 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.65% 
-sh                       2 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   42.66% 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.94% 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
-
-🔥 Editors: 
-VS Code                  2 hrs 49 mins       ██████████████░░░░░░░░░░░   57.34% 
-Zsh                      2 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   42.66%
-
-🐱‍💻 Projects: 
-wazowski                 1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   31.29% 
-Terminal                 1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   29.03% 
-csv_uploader_example     1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   28.86% 
-soul-project             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.1% 
-example                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54%
-
-💻 Operating System: 
-Linux                    4 hrs 55 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Elixir** 
-
-```text
-Elixir                   17 repos            █████████████░░░░░░░░░░░░   51.52% 
-JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.21% 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
-Sass                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
-
-```
-
-
-
- Last Updated on 25/09/2021
 <!--END_SECTION:waka-->
 
 ## Technologies I'm working with right now
