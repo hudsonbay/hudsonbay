@@ -22,13 +22,13 @@ current_user
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) ![Neo4j](https://img.shields.io/badge/-Neo4j-000000?style=flat&logo=neo4j) ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js&logoColor=339933) ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=Android) ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396) ![Kotlin](https://img.shields.io/badge/-KOTLIN-000000?style=flat&logo=KOTLIN) ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL) ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 268 Contributions in the Year 2022
+> 🏆 269 Contributions in the Year 2022
  > 
 > 📦 105.3 kB Used in GitHub's Storage 
  > 
@@ -41,22 +41,22 @@ current_user
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    21 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
-🌆 Daytime    212 commits    ███████░░░░░░░░░░░░░░░░░░   28.84% 
-🌃 Evening    280 commits    █████████░░░░░░░░░░░░░░░░   38.1% 
-🌙 Night      222 commits    ███████░░░░░░░░░░░░░░░░░░   30.2%
+🌞 Morning    21 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85% 
+🌆 Daytime    212 commits    ███████░░░░░░░░░░░░░░░░░░   28.8% 
+🌃 Evening    281 commits    █████████░░░░░░░░░░░░░░░░   38.18% 
+🌙 Night      222 commits    ███████░░░░░░░░░░░░░░░░░░   30.16%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.62% 
-Tuesday      39 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.31% 
-Wednesday    84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-Thursday     75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-Friday       105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Saturday     157 commits    █████░░░░░░░░░░░░░░░░░░░░   21.36% 
-Sunday       219 commits    ███████░░░░░░░░░░░░░░░░░░   29.8%
+Monday       56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.61% 
+Tuesday      39 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.3% 
+Wednesday    84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.41% 
+Thursday     75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.19% 
+Friday       105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.27% 
+Saturday     158 commits    █████░░░░░░░░░░░░░░░░░░░░   21.47% 
+Sunday       219 commits    ███████░░░░░░░░░░░░░░░░░░   29.76%
 
 ```
 
@@ -67,13 +67,17 @@ Sunday       219 commits    ███████░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               9 mins              █████████████████████████   100.0%
+JavaScript               11 mins             ██████████████████░░░░░░░   72.84% 
+Elixir                   3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.78% 
+Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.0%
+VS Code                  15 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    9 mins              █████████████████████████   100.0%
+Linux                    15 mins             █████████████████████████   100.0%
 
 ```
 
@@ -90,7 +94,7 @@ Sass                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2022 23:18:13 UTC
+ Last Updated on 14/05/2022 23:19:11 UTC
 <!--END_SECTION:waka-->
 
 [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hudsonbay&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true" class="jop-noMdConv">](https://github.com/hudsonbay)[<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonbay&amp;layout=compact&amp;langs_count=10&amp;theme=merko" class="jop-noMdConv">](https://github.com/hudsonbay)
