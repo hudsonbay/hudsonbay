@@ -22,15 +22,15 @@ current_user
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) ![Neo4j](https://img.shields.io/badge/-Neo4j-000000?style=flat&logo=neo4j) ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js&logoColor=339933) ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=Android) ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396) ![Kotlin](https://img.shields.io/badge/-KOTLIN-000000?style=flat&logo=KOTLIN) ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL) ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 443 Contributions in the Year 2022
+> 🏆 447 Contributions in the Year 2022
  > 
-> 📦 105.6 kB Used in GitHub's Storage 
+> 📦 105.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -41,22 +41,22 @@ current_user
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
-🌆 Daytime    187 commits    ██████░░░░░░░░░░░░░░░░░░░   24.44% 
-🌃 Evening    266 commits    ████████░░░░░░░░░░░░░░░░░   34.77% 
-🌙 Night      245 commits    ████████░░░░░░░░░░░░░░░░░   32.03%
+🌞 Morning    67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.98% 
+🌆 Daytime    186 commits    ██████░░░░░░░░░░░░░░░░░░░   24.93% 
+🌃 Evening    257 commits    ████████░░░░░░░░░░░░░░░░░   34.45% 
+🌙 Night      236 commits    ████████░░░░░░░░░░░░░░░░░   31.64%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.1% 
-Tuesday      34 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
-Wednesday    123 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
-Thursday     82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.72% 
-Friday       95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.42% 
-Saturday     163 commits    █████░░░░░░░░░░░░░░░░░░░░   21.31% 
-Sunday       206 commits    ██████░░░░░░░░░░░░░░░░░░░   26.93%
+Monday       57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.64% 
+Tuesday      32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.29% 
+Wednesday    120 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
+Thursday     82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
+Friday       95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
+Saturday     161 commits    █████░░░░░░░░░░░░░░░░░░░░   21.58% 
+Sunday       199 commits    ██████░░░░░░░░░░░░░░░░░░░   26.68%
 
 ```
 
@@ -90,7 +90,7 @@ Sass                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2022 23:20:26 UTC
+ Last Updated on 24/09/2022 23:21:11 UTC
 <!--END_SECTION:waka-->
 
 [<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hudsonbay&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true" class="jop-noMdConv">](https://github.com/hudsonbay)[<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonbay&amp;layout=compact&amp;langs_count=10&amp;theme=merko" class="jop-noMdConv">](https://github.com/hudsonbay)
