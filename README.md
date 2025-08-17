@@ -20,3 +20,10 @@ current_user
 ## Technologies I've used in the past but not right now
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) ![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat&logo=Ansible) ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=red) ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=green) ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=elasticsearch) ![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat&logo=apache-kafka) ![Neo4j](https://img.shields.io/badge/-Neo4j-000000?style=flat&logo=neo4j) ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js&logoColor=339933) ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=Android) ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396) ![Kotlin](https://img.shields.io/badge/-KOTLIN-000000?style=flat&logo=KOTLIN) ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL) ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+
+## OSS contributions
+
+- [alfert/propcheck](https://github.com/alfert/propcheck/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3Ahudsonbay+)
+- [glanceapp/glance](https://github.com/glanceapp/glance/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3Ahudsonbay+)
+
+
