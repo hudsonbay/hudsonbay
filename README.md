@@ -23,7 +23,8 @@ current_user
 
 ## OSS contributions
 
-- [alfert/propcheck](https://github.com/alfert/propcheck/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3Ahudsonbay+)
-- [glanceapp/glance](https://github.com/glanceapp/glance/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3Ahudsonbay+)
+✅ [alfert/propcheck](https://github.com/alfert/propcheck/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3Ahudsonbay+)
+
+✅ [glanceapp/glance](https://github.com/glanceapp/glance/pulls?q=sort%3Aupdated-desc+is%3Apr+author%3Ahudsonbay+)
 
 
